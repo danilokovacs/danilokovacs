@@ -9,6 +9,10 @@ body{
     flex-direction: column;
 }
 
+a{
+    text-decoration: none;
+}
+
 p{
     font-size: 1.0rem;
 }
